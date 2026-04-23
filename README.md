@@ -1,6 +1,6 @@
 # Online Event Booking System
 
-A comprehensive Java console application designed to streamline the discovery and booking of various events, including Movies, Concerts, Sports,Standup Comedy and Workshops. This project was developed as a collaborative team effort to demonstrate scalable software design and robust user input validation.
+A comprehensive Java console application designed to streamline the discovery and booking of various events, including Movies, Concerts, Sports, Standup Comedy and Workshops. This project was developed as a collaborative team effort to demonstrate scalable software design and robust user input validation.
 
 ## 🌟 Key Features
 
