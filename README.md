@@ -27,7 +27,7 @@ This was a group project where I focused on:
 * Collaborating with teammates to integrate separate event modules into a unified system.
 
 ## 💻 Execution
-1. Compile the main file:
+1. Compile the main file and run:
    ```bash
    javac OnlineEventBookingSystem.java
    java Run
