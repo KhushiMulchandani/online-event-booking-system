@@ -1,6 +1,6 @@
 # Online Event Booking System
 
-A comprehensive Java console application designed to streamline the discovery and booking of various events, including Movies, Concerts, Sports,Standup Comedy and Workshops. This project was developed as a collaborative team effort to demonstrate scalable software design and robust user input validation.
+A comprehensive Java console application designed to streamline the discovery and booking of various events, including Movies, Concerts, Sports, Standup Comedy and Workshops. This project was developed as a collaborative team effort to demonstrate scalable software design and robust user input validation.
 
 ## 🌟 Key Features
 
@@ -23,7 +23,9 @@ A comprehensive Java console application designed to streamline the discovery an
 
 ## 👥 Collaboration
 This was a group project where I focused on:
-* Designing the sports event(s) category.
+* The Sports event category.
+* Interactive Seating Visualization: Implemented a 2D occupancy matrix to represent the venue layout. The system renders a dynamic seating grid where:
+O (Green) represents Available seats and X (Red) represents Reserved seats.
 * Collaborating with teammates to integrate separate event modules into a unified system.
 
 ## 💻 Execution
