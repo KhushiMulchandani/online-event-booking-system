@@ -24,7 +24,7 @@ A comprehensive Java console application designed to streamline the discovery an
 ## 👥 Collaboration
 This was a group project where I focused on:
 * The Sports event category.
-* Interactive Seating Visualization: > Implemented a 2D occupancy matrix to represent the venue layout. The system renders a dynamic seating grid where:
+* Interactive Seating Visualization: Implemented a 2D occupancy matrix to represent the venue layout. The system renders a dynamic seating grid where:
 O (Green) represents Available seats.
 X (Red) represents Reserved seats.
 * Collaborating with teammates to integrate separate event modules into a unified system.
